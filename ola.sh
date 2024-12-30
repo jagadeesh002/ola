@@ -23,3 +23,9 @@ echo " local, domestic "
 ola eats
 
 echo " food, groceries "
+
+# ola third feature
+
+ola rentals
+
+echo " hourly, daily, weekly, monthly "
