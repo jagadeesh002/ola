@@ -29,3 +29,9 @@ echo " food, groceries "
 ola rentals
 
 echo " hourly, daily, weekly, monthly "
+
+# ola fourth feature
+
+ola insurance
+
+echo " term, bike, car, health "
